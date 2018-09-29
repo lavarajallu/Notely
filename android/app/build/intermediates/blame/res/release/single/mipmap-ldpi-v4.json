@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stellent/Documents/Notely/android/app/build/intermediates/res/merged/release/mipmap-ldpi-v4/icon.png",
+        "source": "/Users/stellent/Documents/Notely/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/stellent/Documents/Notely/android/app/build/intermediates/res/merged/release/mipmap-ldpi-v4/ic_launcher.png",
+        "source": "/Users/stellent/Documents/Notely/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    }
+]
